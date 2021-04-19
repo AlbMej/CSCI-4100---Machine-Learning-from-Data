@@ -1,6 +1,6 @@
 # [CSCI 4100 Machine Learning from Data](https://www.cs.rpi.edu/~magdon/courses/learn.php)
 
-My coursework for RPI's Machine Learning course. 
+My coursework for the RPI's Fall 2019 Machine Learning course.
 
 LFD (Learning From Data) is the class textbook
 
