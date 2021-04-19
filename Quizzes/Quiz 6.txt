@@ -1,0 +1,1 @@
+Given that our target function is a 10th order noisy one, to prevent over-fitting, I would use a 2nd order polynomial for the data. For a clean 50th order target function, I would choose a polynomial function of the 10th degree in order to increase accurancy. 
